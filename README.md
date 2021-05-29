@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300"  />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="300"  />
 <br>
 ### Hi there 👋 i'am **Elder Chumacero Jimenez**
 
@@ -7,8 +7,8 @@
 
 <h3><i>My stats</i></h3>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soinekro&theme=dark&show_icons=true" alt="Elder Chumacero github stats"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soinekro" alt="Henry Yamunaque's top langs" height="205">
-<img align="center" src="https://metrics.lecoq.io/Soinekro?template=classic" alt="Elder Chumacero's top langs"></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soinekro&theme=dark&show_icons=true" alt="Elder Chumacero github stats"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soinekro" alt="Elder Chumacero top langs" height="205">
+<img align="center" src="https://metrics.lecoq.io/Soinekro?template=classic" alt="Elder Chumacero top langs"></p>
   
 **Languages and Tools:**    
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
