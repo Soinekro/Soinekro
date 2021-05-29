@@ -39,7 +39,7 @@
 namespace AshBaker;
 class About extends Me
 {
-    public function Conocimiento diario(): array
+    public function Conocimiento_diario(): array
     {
         return [
             Php::class,
