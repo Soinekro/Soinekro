@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="300"  />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="360"  />
 <br>
 ### Hi there 👋 i'am **Elder Chumacero Jimenez**
 
@@ -22,6 +22,7 @@
 
   **Skils**
 ```text
+    Unity3d          ████████▒░░░░░░░░░░░
     Laravel 8        ██████████████░░░░░░
     JavaScript       ██████████▒░░░░░░░░░   
     C++              ████░░░░░░░░░░░░░░░░
@@ -32,4 +33,27 @@
     Java             ████████░░░░░░░░░░░░
     HTML             ██████████████░░░░░░
     CSS              ███████████░░░░░░░░░
+```
+```php
+<?php
+namespace AshBaker;
+class About extends Me
+{
+    public function Conocimiento diario(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            LiveWire::class,
+            TailwindCss::class,
+            Jetstream::class,
+        ];
+    }
+    public function MetaFutura(): string
+    {
+        return 'Ser un Gran desarrollador de Software Especializado en WEB y Videojuegos.';
+    }
+}
 ```
