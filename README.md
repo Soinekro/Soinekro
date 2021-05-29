@@ -1,13 +1,13 @@
-### Hi there 👋
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" align="center" />
+### Hi there 👋 i'am **Elder Chumacero Jimenez**
 
 **Soinekro/Soinekro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <h3><i>My stats</i></h3>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soinekro" alt="Elder Chumacero github stats"/>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soinekro" alt="Elder Chumacero's top langs" height="205">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soinekro&theme=dark&show_icons=true" alt="Elder Chumacero github stats"/>
+&nbsp;<img align="center" src="https://metrics.lecoq.io/Soinekro?template=classic" alt="Elder Chumacero's top langs" height="205">
   
 **Languages and Tools:**  
   
@@ -27,5 +27,7 @@
     MySql            ███████████▒░░░░░░░░
     PHP              ███████████░░░░░░░░░
     git              ████████████░░░░░░░░
-    Java             ████████░░░░░░░░░░░░    
+    Java             ████████░░░░░░░░░░░░
+    HTML             ██████████████░░░░░░
+    CSS              ███████████░░░░░░░░░
 ```
