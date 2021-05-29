@@ -36,10 +36,10 @@
 ```
 ```php
 <?php
-namespace AshBaker;
+namespace Soinekro;
 class About extends Me
 {
-    public function Conocimiento_diario(): array
+    public function Conocimiento_diario()
     {
         return [
             Php::class,
@@ -51,7 +51,7 @@ class About extends Me
             Jetstream::class,
         ];
     }
-    public function MetaFutura(): string
+    public function MetaFutura()
     {
         return 'Ser un Gran desarrollador de Software Especializado en WEB y Videojuegos.';
     }
