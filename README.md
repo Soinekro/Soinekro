@@ -1,7 +1,9 @@
 <div align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300px" />&nbsp;<img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" height="300px" /></div>
 <br>
 <div>
+  <p align='center'>
 Hi there <img alt="HI GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="20px" />, I'm <strong><i>Elder Chumacero Jimenez</i></strong>
+  </p>
   </div>
 <h2><i>My stats</i></h2>
 <p align='center'>
