@@ -25,12 +25,12 @@ Hi there <img alt="HI GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCo
 
 ```text
     Unity3d          ████████▒░░░░░░░░░░░
-    Laravel 8        ██████████████░░░░░░
+    Laravel 8        ████████████████░░░░
     JavaScript       ██████████▒░░░░░░░░░   
     C++              ████░░░░░░░░░░░░░░░░
     python           █████████████▒░░░░░░ 
     MySql            ███████████▒░░░░░░░░
-    PHP              ███████████░░░░░░░░░
+    PHP              █████████████░░░░░░░
     git              ████████████░░░░░░░░
     Java             ████████░░░░░░░░░░░░
     HTML             ██████████████░░░░░░
