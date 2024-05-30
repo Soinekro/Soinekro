@@ -14,7 +14,6 @@ Hi there <img alt="HI GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCo
 <div align="center">
   <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-  <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
   <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
   <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -26,14 +25,11 @@ Hi there <img alt="HI GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCo
 
 ```text
     Unity3d          ████████▒░░░░░░░░░░░
-    Laravel 8        ████████████████░░░░
-    JavaScript       ██████████▒░░░░░░░░░   
-    C++              ████░░░░░░░░░░░░░░░░
-    python           █████████████▒░░░░░░ 
-    MySql            ███████████▒░░░░░░░░
+    Laravel          █████████████████░░░
+    JavaScript       █████████████▒░░░░░░  
+    MySql            ███████████████░░░░░
     PHP              █████████████░░░░░░░
-    git              ████████████░░░░░░░░
-    Java             ████████░░░░░░░░░░░░
+    git              ██████████████░░░░░░
     HTML             ██████████████░░░░░░
     CSS              ███████████░░░░░░░░░
 ```
@@ -42,22 +38,23 @@ Hi there <img alt="HI GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCo
 namespace Soinekro;
 class About extends Me
 {
-    public function Conocimiento_diario()
+    public function conocimientos()
     {
         return [
             Php::class,
             Unity::class,
             Javascript::class,
             Laravel::class,
-            Vuejs::class,
             LiveWire::class,
             TailwindCss::class,
             Jetstream::class,
+            Linux::class,
+            Ubuntu::class
         ];
     }
     public function MetaFutura()
     {
-        return 'Ser un Gran desarrollador de Software Especializado en WEB y Videojuegos.';
+        return 'Ser un Gran desarrollador de Software Especializado en WEB BACK END.';
     }
 }
 ?>
