@@ -15,7 +15,7 @@ Hi there <img alt="HI GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCo
   <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
   <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-  <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+  <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
   <code><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
@@ -24,8 +24,8 @@ Hi there <img alt="HI GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCo
   <h2><i>Skills</i></h2>
 
 ```text
-    Unity3d          ████████▒░░░░░░░░░░░
-    Laravel          █████████████████░░░
+    Python          █████████░░░░░░░░░░░
+    Laravel          ██████████████████░░
     JavaScript       █████████████▒░░░░░░  
     MySql            ███████████████░░░░░
     PHP              █████████████░░░░░░░
@@ -42,14 +42,13 @@ class About extends Me
     {
         return [
             Php::class,
-            Unity::class,
+            Python::class,
             Javascript::class,
             Laravel::class,
             LiveWire::class,
             TailwindCss::class,
-            Jetstream::class,
             Linux::class,
-            Ubuntu::class
+            CentOS::class
         ];
     }
     public function MetaFutura()
